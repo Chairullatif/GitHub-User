@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="followersku">Followers</string>
+    <string name="followingku">Following</string>
+    <string name="repositories">Repositories</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="tab_1">Follower</string>
+    <string name="tab_2">Following</string>
+    <string name="loading">~</string>
+    <string name="title_detail">Detail User</string>
+    <string name="company">Company: %s</string>
+    <string name="location">Location: %s</string>
+    <string name="success_add_to_favorite">Success adding %s to favorite</string>
+    <string name="success_delete_from_favorite">Success delete %s from favorite</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="consumer_app">Consumer App</string>
+</resources>

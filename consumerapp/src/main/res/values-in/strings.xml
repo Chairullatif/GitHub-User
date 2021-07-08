@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="followersku">Pengikut</string>
+    <string name="followingku">Mengikuti</string>
+    <string name="repositories">Repositori</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="tab_1">Pengikut</string>
+    <string name="tab_2">Mengikuti</string>
+    <string name="loading">~</string>
+    <string name="title_detail">Detail Pengguna</string>
+    <string name="company">Perusahaan: %s</string>
+    <string name="location">Lokasi: %s</string>
+    <string name="success_add_to_favorite">Berhasil menambahkan %s ke favorit</string>
+    <string name="success_delete_from_favorite">Berhasil menghapus %s dari favorit</string>
+    <string name="favorite_user">Pengguna Disukai</string>
+</resources>

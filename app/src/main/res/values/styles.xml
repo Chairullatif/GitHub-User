@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryDarkColor</item>
+        <item name="colorPrimaryDark">@color/secondaryColor</item>
+        <item name="colorAccent">@color/secondaryDarkColor</item>
+        <item name="colorSecondary">@color/secondaryDarkColor2</item>
+        <item name="colorOnSecondary">@color/secondaryTextColor</item>
+        <item name="fontFamily">@font/nunito_black</item>
+    </style>
+
+    <style name="TitleText" parent="Widget.AppCompat.Toolbar">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/nunito_black</item>
+    </style>
+
+</resources>
